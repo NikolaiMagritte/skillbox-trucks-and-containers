@@ -47,6 +47,9 @@ public class Cargo {
         int containerIndex = 1;
         int boxes = 0;
 
+        System.out.println("Грузовик: " + truckIndex);
+        System.out.println("\tКонтейнер: " + containerIndex);
+
         while (boxes < boxCount) {
             System.out.println("\t\tЯщик: " + ++boxes);
             if ((containerIndex % CONTAINERS_PER_TRUCK == 0)
