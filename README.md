@@ -16,4 +16,4 @@
     контейнеров - 1 шт.
 
 <u>Подробная информация о решении задачи:</u>
-https://dzen.ru/a/Y_IH_Yj72k8z1DPr
+https://dzen.ru/a/ZAYYxwKLnXrk3v4r
